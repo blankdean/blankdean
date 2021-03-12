@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, it's me Dean 👋
 
-<!--
-**blankdean/blankdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/blankdean/blankdean.svg)](http://hits.dwyl.com/blankdean/blankdean)
 
-Here are some ideas to get you started:
+A bit about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am a passionate Systems Software Engineer
+- 🌱 I’m currently learning computer science at [Georgia Tech](https://omscs.gatech.edu/specialization-computing-systems)
+- 👯 I’m looking to collaborate on computer architecture/operating system projects
+- 🤔 Actively writing blogs [Check it out!](https://medium.com/@blankdean) 
+- 📫 How to reach me: <a href="mailto:dblank8@gatech.edu">Let's Get in touch!</a>
+- ⚡ Fun fact: I tutor students in math and computer science at my local community college
+
+
+### Other places you can find me
+
+[linkedin](https://www.linkedin.com/in/blankdean/)
+
+[Twitter](https://twitter.com/fitprogrammer)
