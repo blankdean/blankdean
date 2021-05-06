@@ -9,7 +9,7 @@ A bit about me
 - 👯 I’m looking to collaborate on computer architecture/operating system projects
 - 💬 Actively writing blogs [Check it out!](https://medium.com/@blankdean) 
 - 📫 How to reach me: <a href="mailto:dblank8@gatech.edu">Let's get in touch!</a>
-- ⚡ Fun fact: I'm a Graduate Teaching Assistant at Georgia Tech for CS6290 (High Performance Computer Architecture)
+- ⚡ Fun fact: I speak fluent Hebrew
 - 🧗 I try to: Constantly learn, go beyond, and push the bounds
 
 
