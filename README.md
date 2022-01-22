@@ -6,7 +6,7 @@ A bit about me
 
 - 💻 I am a passionate Systems Software Engineer
 - 🌱 I’m currently learning computer science at [Georgia Tech](https://omscs.gatech.edu/specialization-computing-systems)
-- 👨‍🏫 I am a graduate teaching assistant for Embedded Software Optimization ([CS6291](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)) 
+- 👨‍🏫 I'm a graduate teaching assistant for Embedded Software Optimization ([CS6291](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)) 
 - 👯 I’m looking to collaborate on computer architecture/operating system projects
 - 💬 Actively writing blogs [Check it out!](https://medium.com/@blankdean) 
 - 📫 How to reach me: <a href="mailto:dblank8@gatech.edu">Let's get in touch!</a>
