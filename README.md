@@ -4,13 +4,10 @@
 
 A bit about me
 
-- 💻 I am a passionate Systems Software Engineer
-- 🌱 I’m currently learning computer science at [Georgia Tech](https://omscs.gatech.edu/specialization-computing-systems)
-- 👨‍🏫 I'm a graduate teaching assistant for Embedded Software Optimization ([CS6291](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)) 
-- 👯 I’m looking to collaborate on computer architecture/operating system projects
+- 💻 I am a passionate Machine Learning Engineer
+- 🌱 Graduated from [Georgia Tech](https://omscs.gatech.edu/specialization-computing-systems) with an MS in Computer Science
 - 💬 Actively writing blogs [Check it out!](https://medium.com/@blankdean) 
-- 📫 How to reach me: <a href="mailto:dblank8@gatech.edu">Let's get in touch!</a>
-- ⚡ Fun fact: I speak fluent Hebrew
+- ⚡ Fun fact: I speak fluent Hebrew and currently learning Russian
 - 🧗 I try to: Constantly learn, go beyond, and push the bounds
 
 
@@ -18,4 +15,4 @@ A bit about me
 
 💼  [linkedin](https://www.linkedin.com/in/blankdean/)
 
-🐣  [Twitter](https://twitter.com/fitprogrammer)
+🐣  [Twitter](https://twitter.com/codewithdean)
